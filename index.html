@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>60 Days of Code</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <body>
+  <div class="container">
+    <header>
+      <h1>60 Days of Code</h1>
+      <p class="subtext">Challenge Yourself. One Step at a Time.</p>
+    </header>
+
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab-button active" onclick="switchTab('honors')">Honors & Esteem</button>
+      <button class="tab-button" onclick="switchTab('courage')">Courage</button>
+    </div>
+
+    <!-- Content Wrapper -->
+    <div class="tab-content" id="honors">
+      <section class="countdown">
+        <h2>Day <span id="day-count-honors">1</span> of 60</h2>
+      </section>
+      <section class="today-question">
+        <h3>Today's Questions</h3>
+        <div id="today-container-honors" class="question-pair"></div>
+      </section>
+      <section class="previous-questions">
+        <h3>Previous Days</h3>
+        <div id="previous-days-honors"></div>
+      </section>
+    </div>
+
+    <div class="tab-content hidden" id="courage">
+      <section class="countdown">
+        <h2>Day <span id="day-count-courage">1</span> of 60</h2>
+      </section>
+      <section class="today-question">
+        <h3>Today's Questions</h3>
+        <div id="today-container-courage" class="question-pair"></div>
+      </section>
+      <section class="previous-questions">
+        <h3>Previous Days</h3>
+        <div id="previous-days-courage"></div>
+      </section>
+    </div>
+
+    <footer>
+      <p>&copy; 2025 60 Days of Code | Crafted with ❤️ by Soumik.</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
