@@ -26,8 +26,8 @@ const data = {
           link: "https://leetcode.com/problems/maximum-subarray/",
         },
         {
-          title: "Maximum Product Subarray",
-          link: "https://leetcode.com/problems/maximum-product-subarray/",
+          title: "Product of array except self",
+          link: "https://leetcode.com/problems/product-of-array-except-self/",
         },
       ],
     },
