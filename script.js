@@ -733,30 +733,137 @@ const data = {
   ],
 
   courage: [
-    {
-      day: 1,
-      questions: [
-        { title: "FizzBuzz", link: "https://leetcode.com/problems/fizz-buzz/" },
-        {
-          title: "Palindrome Number",
-          link: "https://leetcode.com/problems/palindrome-number/",
-        },
-      ],
-    },
-    {
-      day: 2,
-      questions: [
-        {
-          title: "Maximum Subarray",
-          link: "https://leetcode.com/problems/maximum-subarray/",
-        },
-        {
-          title: "Best Time to Buy and Sell Stock",
-          link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-        },
-      ],
-    },
-  ],
+  {
+    day: 1,
+    questions: [
+      {
+        title: "Search Insert Position",
+        link: "https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        title: "Count Primes",
+        link: "https://leetcode.com/problems/count-primes/description/"
+      }
+    ]
+  },
+  {
+    day: 2,
+    questions: [
+      {
+        title: "Reverse String",
+        link: "https://leetcode.com/problems/reverse-string/description/"
+      },
+      {
+        title: "Find All Numbers Disappeared in an Array",
+        link: "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    day: 3,
+    questions: [
+      {
+        title: "Assign Cookies",
+        link: "https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        title: "Teemo Attacking",
+        link: "https://leetcode.com/problems/teemo-attacking/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    day: 4,
+    questions: [
+      {
+        title: "Keyboard Row",
+        link: "https://leetcode.com/problems/keyboard-row/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        title: "Relative Ranks",
+        link: "https://leetcode.com/problems/relative-ranks/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    day: 5,
+    questions: [
+      {
+        title: "Array Partition",
+        link: "https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        title: "Concatenation of Array",
+        link: "https://leetcode.com/problems/concatenation-of-array/description/"
+      }
+    ]
+  },
+  {
+    day: 6,
+    questions: [
+      {
+        title: "Number of Senior Citizens",
+        link: "https://leetcode.com/problems/number-of-senior-citizens/description/"
+      },
+      {
+        title: "Is Subsequence",
+        link: "https://leetcode.com/problems/is-subsequence/description/"
+      }
+    ]
+  },
+  {
+    day: 7,
+    questions: [
+      {
+        title: "Find Pivot Index",
+        link: "https://leetcode.com/problems/find-pivot-index/description/"
+      },
+      {
+        title: "Isomorphic Strings",
+        link: "https://leetcode.com/problems/isomorphic-strings/description/"
+      }
+    ]
+  },
+  {
+    day: 8,
+    questions: [
+      {
+        title: "Unique Email Addresses",
+        link: "https://leetcode.com/problems/unique-email-addresses/description/"
+      },
+      {
+        title: "Maximum Number of Balloons",
+        link: "https://leetcode.com/problems/maximum-number-of-balloons/description/"
+      }
+    ]
+  },
+  {
+    day: 9,
+    questions: [
+      {
+        title: "Design HashSet",
+        link: "https://leetcode.com/problems/design-hashset/description/"
+      },
+      {
+        title: "Height Checker",
+        link: "https://leetcode.com/problems/height-checker/description/"
+      }
+    ]
+  },
+  {
+    day: 10,
+    questions: [
+      {
+        title: "Divide Array into Equal Pairs",
+        link: "https://leetcode.com/problems/divide-array-into-equal-pairs/description/"
+      },
+      {
+        title: "Special Array",
+        link: "https://leetcode.com/problems/special-array-i/description/"
+      }
+    ]
+  }
+]
 };
 
 // Initialize a batch (honors/courage)
