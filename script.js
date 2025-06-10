@@ -862,7 +862,137 @@ const data = {
         link: "https://leetcode.com/problems/special-array-i/description/"
       }
     ]
-  }
+  },
+    {
+    "day": 11,
+    "questions": [
+      {
+        "title": "Score of String",
+        "link": "https://leetcode.com/problems/score-of-a-string/description/"
+      },
+      {
+        "title": "Minimum Index Sum of Two Lists",
+        "link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "questions": [
+      {
+        "title": "Merge Strings Alternately",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/description/"
+      },
+      {
+        "title": "Sort Array by Parity",
+        "link": "https://leetcode.com/problems/sort-array-by-parity/description/"
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "questions": [
+      {
+        "title": "Merge Strings Alternately",
+        "link": "https://leetcode.com/problems/merge-strings-alternately/description/"
+      },
+      {
+        "title": "Valid Palindrome II",
+        "link": "https://leetcode.com/problems/valid-palindrome-ii/description/"
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "questions": [
+      {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/"
+      },
+      {
+        "title": "Contains Duplicate II",
+        "link": "https://leetcode.com/problems/contains-duplicate-ii/description/"
+      }
+    ]
+  },
+  {
+    "day": 15,
+    "questions": [
+      {
+        "title": "Smallest Distinct Window",
+        "link": "https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1"
+      },
+      {
+        "title": "Implement Stack Using Array",
+        "link": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1"
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "questions": [
+      {
+        "title": "Implement Queue Using Array",
+        "link": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1"
+      },
+      {
+        "title": "Implement Stack Using Queues",
+        "link": "https://leetcode.com/problems/implement-stack-using-queues/description/"
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "questions": [
+      {
+        "title": "Implement Queue Using Stacks",
+        "link": "https://leetcode.com/problems/implement-queue-using-stacks/description/"
+      },
+      {
+        "title": "Valid Parentheses",
+        "link": "https://leetcode.com/problems/valid-parentheses/description/"
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "questions": [
+      {
+        "title": "Baseball Game",
+        "link": "https://leetcode.com/problems/baseball-game/description/"
+      },
+      {
+        "title": "Linked List Operations",
+        "link": "Insertion, deletion, insert at specified position, display"
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "questions": [
+      {
+        "title": "Linked List Cycle",
+        "link": "https://leetcode.com/problems/linked-list-cycle/description/"
+      },
+      {
+        "title": "Reverse Linked List",
+        "link": "https://leetcode.com/problems/reverse-linked-list/description/"
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "questions": [
+      {
+        "title": "Remove Linked List Elements",
+        "link": "https://leetcode.com/problems/remove-linked-list-elements/description/"
+      },
+      {
+        "title": "Middle of the Linked List",
+        "link": "https://leetcode.com/problems/middle-of-the-linked-list/description/"
+      }
+    ]
+  }
 ]
 };
 
