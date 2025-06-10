@@ -162,123 +162,6 @@ const data = {
       day: 13,
       questions: [
         {
-          title: "Check Whether Arithmetic Progression Can Be Formed",
-          link: "https://www.geeksforgeeks.org/check-whether-arithmetic-progression-can-formed-given-array/",
-        },
-        {
-          title: "Grid Illumination",
-          link: "https://leetcode.com/problems/grid-illumination/",
-        },
-      ],
-    },
-    {
-      day: 14,
-      questions: [
-        {
-          title: "Brick Wall",
-          link: "https://leetcode.com/problems/brick-wall/",
-        },
-        {
-          title: "Subarray Sum Equals K",
-          link: "https://leetcode.com/problems/subarray-sum-equals-k/",
-        },
-      ],
-    },
-    {
-      day: 15,
-      questions: [
-        {
-          title: "Subarray Sums Divisible by K",
-          link: "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
-        },
-        {
-          title: "Insert Delete GetRandom O(1)",
-          link: "https://leetcode.com/problems/insert-delete-getrandom-o1/",
-        },
-      ],
-    },
-    {
-      day: 16,
-      questions: [
-        {
-          title: "Insert Delete GetRandom O(1) - Duplicates Allowed",
-          link: "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
-        },
-        {
-          title: "Longest Consecutive Sequence",
-          link: "https://leetcode.com/problems/longest-consecutive-sequence/",
-        },
-      ],
-    },
-    {
-      day: 17,
-      questions: [
-        {
-          title: "Find All Anagrams in a String",
-          link: "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
-        },
-        {
-          title: "Minimum Window Substring",
-          link: "https://leetcode.com/problems/minimum-window-substring/",
-        },
-      ],
-    },
-    {
-      day: 18,
-      questions: [
-        {
-          title: "HashMap Implementation",
-          link: "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/hashmap-official/ojquestion",
-        },
-        {
-          title: "Count Subarrays with Equal Number of 0s and 1s",
-          link: "https://www.geeksforgeeks.org/count-subarrays-equal-number-1s-0s/",
-        },
-      ],
-    },
-    {
-      day: 19,
-      questions: [
-        {
-          title: "Substring with Equal Number of 0s, 1s, and 2s",
-          link: "https://www.geeksforgeeks.org/substring-equal-number-0-1-2/",
-        },
-        {
-          title: "Kth Largest Element in an Array",
-          link: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
-        },
-      ],
-    },
-    {
-      day: 20,
-      questions: [
-        {
-          title: "Minimum Number of Refueling Stops",
-          link: "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
-        },
-        {
-          title: "Minimum Cost to Connect Sticks",
-          link: "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
-        },
-      ],
-    },
-    {
-      day: 21,
-      questions: [
-        {
-          title: "Employee Free Time",
-          link: "https://leetcode.com/problems/employee-free-time/",
-        },
-        {
-          title: "Find Median from Data Stream",
-          link: "https://leetcode.com/problems/find-median-from-data-stream/",
-        },
-      ],
-    },
-    {
-      day: 22,
-      questions: [
-        {
           title: "Capacity To Ship Packages Within D Days",
           link: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
         },
@@ -289,7 +172,7 @@ const data = {
       ],
     },
     {
-      day: 23,
+      day: 14,
       questions: [
         {
           title: "Search in Rotated Sorted Array",
@@ -302,7 +185,7 @@ const data = {
       ],
     },
     {
-      day: 24,
+      day: 15,
       questions: [
         {
           title: "Allocate Books",
@@ -315,7 +198,7 @@ const data = {
       ],
     },
     {
-      day: 25,
+      day: 16,
       questions: [
         {
           title: "Reverse Linked List",
@@ -328,7 +211,7 @@ const data = {
       ],
     },
     {
-      day: 26,
+      day: 17,
       questions: [
         {
           title: "Detect Loop in a Linked List",
@@ -341,7 +224,7 @@ const data = {
       ],
     },
     {
-      day: 27,
+      day: 18,
       questions: [
         {
           title: "Intersection Point of Two Linked Lists",
@@ -354,7 +237,7 @@ const data = {
       ],
     },
     {
-      day: 28,
+      day: 19,
       questions: [
         {
           title: "Next Greater Element",
@@ -367,7 +250,7 @@ const data = {
       ],
     },
     {
-      day: 29,
+      day: 20,
       questions: [
         {
           title: "Maximum Size Binary Matrix Containing 1",
@@ -380,7 +263,7 @@ const data = {
       ],
     },
     {
-      day: 30,
+      day: 21,
       questions: [
         {
           title: "Min Stack",
@@ -393,7 +276,7 @@ const data = {
       ],
     },
     {
-      day: 31,
+      day: 22,
       questions: [
         {
           title: "Infix Evaluation",
@@ -406,7 +289,7 @@ const data = {
       ],
     },
     {
-      day: 32,
+      day: 23,
       questions: [
         {
           title: "K Queue",
@@ -415,6 +298,123 @@ const data = {
         {
           title: "Preorder Traversal",
           link: "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        },
+      ],
+    },
+    {
+      day: 24,
+      questions: [
+        {
+          title: "Check Whether Arithmetic Progression Can Be Formed",
+          link: "https://www.geeksforgeeks.org/check-whether-arithmetic-progression-can-formed-given-array/",
+        },
+        {
+          title: "Grid Illumination",
+          link: "https://leetcode.com/problems/grid-illumination/",
+        },
+      ],
+    },
+    {
+      day: 25,
+      questions: [
+        {
+          title: "Brick Wall",
+          link: "https://leetcode.com/problems/brick-wall/",
+        },
+        {
+          title: "Subarray Sum Equals K",
+          link: "https://leetcode.com/problems/subarray-sum-equals-k/",
+        },
+      ],
+    },
+    {
+      day: 26,
+      questions: [
+        {
+          title: "Subarray Sums Divisible by K",
+          link: "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+        },
+        {
+          title: "Insert Delete GetRandom O(1)",
+          link: "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+        },
+      ],
+    },
+    {
+      day: 27,
+      questions: [
+        {
+          title: "Insert Delete GetRandom O(1) - Duplicates Allowed",
+          link: "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+        },
+        {
+          title: "Longest Consecutive Sequence",
+          link: "https://leetcode.com/problems/longest-consecutive-sequence/",
+        },
+      ],
+    },
+    {
+      day: 28,
+      questions: [
+        {
+          title: "Find All Anagrams in a String",
+          link: "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+        },
+        {
+          title: "Minimum Window Substring",
+          link: "https://leetcode.com/problems/minimum-window-substring/",
+        },
+      ],
+    },
+    {
+      day: 29,
+      questions: [
+        {
+          title: "HashMap Implementation",
+          link: "https://www.pepcoding.com/resources/online-java-foundation/hashmap-and-heap/hashmap-official/ojquestion",
+        },
+        {
+          title: "Count Subarrays with Equal Number of 0s and 1s",
+          link: "https://www.geeksforgeeks.org/count-subarrays-equal-number-1s-0s/",
+        },
+      ],
+    },
+    {
+      day: 30,
+      questions: [
+        {
+          title: "Substring with Equal Number of 0s, 1s, and 2s",
+          link: "https://www.geeksforgeeks.org/substring-equal-number-0-1-2/",
+        },
+        {
+          title: "Kth Largest Element in an Array",
+          link: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        },
+      ],
+    },
+    {
+      day: 31,
+      questions: [
+        {
+          title: "Minimum Number of Refueling Stops",
+          link: "https://leetcode.com/problems/minimum-number-of-refueling-stops/",
+        },
+        {
+          title: "Minimum Cost to Connect Sticks",
+          link: "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+        },
+      ],
+    },
+    {
+      day: 32,
+      questions: [
+        {
+          title: "Employee Free Time",
+          link: "https://leetcode.com/problems/employee-free-time/",
+        },
+        {
+          title: "Find Median from Data Stream",
+          link: "https://leetcode.com/problems/find-median-from-data-stream/",
         },
       ],
     },
