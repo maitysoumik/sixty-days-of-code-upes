@@ -167,7 +167,7 @@ const data = {
         },
         {
           title: "Painter's Partition Problem",
-          link: "https://www.interviewbit.com/problems/painters-partition-problem/#",
+          link: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
         },
       ],
     },
