@@ -166,7 +166,7 @@ const data = {
           link: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
         },
         {
-          title: "Painter's Partition Problem",
+          title: "Painter's Partition Problem II",
           link: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
         },
       ],
