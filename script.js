@@ -962,8 +962,8 @@ const data = {
         "link": "https://leetcode.com/problems/baseball-game/description/"
       },
       {
-        "title": "Linked List Operations",
-        "link": "Insertion, deletion, insert at specified position, display"
+        "title": "Design Linked List",
+        "link": "https://leetcode.com/problems/design-linked-list/description/"
       }
     ]
   },
@@ -992,7 +992,142 @@ const data = {
         "link": "https://leetcode.com/problems/middle-of-the-linked-list/description/"
       }
     ]
-  }
+  },
+      {
+    "day": 21,
+    "questions": [
+      {
+        "title": "Palindrome",
+        "link": "https://www.geeksforgeeks.org/problems/palindrome0746/1"
+      },
+      {
+        "title": "Fibonacci number",
+        "link": "https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1"
+      }
+    ]
+  },
+  {
+    "day": 22,
+    "questions": [
+      {
+        "title": "Sum of digits",
+        "link": "https://www.geeksforgeeks.org/problems/sum-of-digits1742/1"
+      },
+      {
+        "title": "Anagram",
+        "link": "https://www.geeksforgeeks.org/problems/anagram-1587115620/1"
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "questions": [
+      {
+        "title": "Contains duplicate",
+        "link": "https://leetcode.com/problems/contains-duplicate/description/"
+      },
+      {
+        "title": "Valid anagram",
+        "link": "https://leetcode.com/problems/valid-anagram/description/"
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "questions": [
+      {
+        "title": "Length of last word",
+        "link": "https://leetcode.com/problems/length-of-last-word/description/"
+      },
+      {
+        "title": "Two Sum",
+        "link": "https://leetcode.com/problems/two-sum/description/"
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "questions": [
+      {
+        "title": "String matching in array",
+        "link": "https://leetcode.com/problems/string-matching-in-an-array/description/"
+      },
+      {
+        "title": "Leap year",
+        "link": "https://www.geeksforgeeks.org/problems/leap-year0943/1"
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "questions": [
+      {
+        "title": "Remove element",
+        "link": "https://leetcode.com/problems/remove-element/"
+      },
+      {
+        "title": "Majority element",
+        "link": "https://leetcode.com/problems/majority-element/description/"
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "questions": [
+      {
+        "title": "Next greater element",
+        "link": "https://leetcode.com/problems/next-greater-element-i/description/"
+      },
+      {
+        "title": "Missing and repeated values",
+        "link": "https://leetcode.com/problems/find-missing-and-repeated-values/description/"
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "questions": [
+      {
+        "title": "Monotonic array",
+        "link": "https://leetcode.com/problems/monotonic-array/description/"
+      },
+      {
+        "title": "Single number",
+        "link": "https://leetcode.com/problems/single-number/description/"
+      }
+    ]
+  },
+  {
+    "day": 29,
+    "questions": [
+      {
+        "title": "Number of 1 bits",
+        "link": "https://leetcode.com/problems/number-of-1-bits/description/"
+      },
+      {
+        "title": "Minimum bit flip",
+        "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/"
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "questions": [
+      {
+        "title": "Power of 2",
+        "link": "https://leetcode.com/problems/power-of-two/description/"
+      },
+      {
+        "title": "Missing number",
+        "link": "https://leetcode.com/problems/missing-number/description/"
+      },
+      {
+        "title": "Find position of set bit",
+        "link": "https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
+      }
+    ]
+  }
+
 ]
 };
 
