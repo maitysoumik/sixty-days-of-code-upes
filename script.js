@@ -227,8 +227,8 @@ const data = {
       day: 18,
       questions: [
         {
-          title: "Intersection Point of Two Linked Lists",
-          link: "https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/",
+          title: "Linked List Cycle II",
+          link: "https://leetcode.com/problems/linked-list-cycle-ii/description/",
         },
         {
           title: "LRU Cache",
