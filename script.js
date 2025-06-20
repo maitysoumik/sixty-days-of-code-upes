@@ -241,7 +241,7 @@ const data = {
       questions: [
         {
           title: "Next Greater Element",
-          link: "https://leetcode.com/problems/next-greater-element-i/",
+          link: "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
         },
         {
           title: "Largest Rectangular Area Histogram",
@@ -253,8 +253,8 @@ const data = {
       day: 20,
       questions: [
         {
-          title: "Maximum Size Binary Matrix Containing 1",
-          link: "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+          title: "Max Rectangle",
+          link: "https://www.geeksforgeeks.org/problems/max-rectangle/1",
         },
         {
           title: "Valid Parentheses",
