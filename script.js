@@ -1205,7 +1205,7 @@ function renderBatch(batchName) {
         <h4>Question ${i + 1}: ${q.title}</h4>
         <div class="links">
           <a href="${q.link}" target="_blank">View →</a>
-          ${q.video ? `<a href="${q.video}" target="_blank" class="yt-link"><img src="https://img.icons8.com/ios-filled/20/fa314a/youtube-play.png" alt="YT" class="yt-icon" /></a>` : ""}
+          ${q.video ? `<a href="${q.video}" target="_blank" class="yt-link"><img src="https://img.icons8.com/color/24/youtube-play.png" alt="YT" class="yt-icon" /></a>` : ""}
         </div>
       `;
       questionsWrapper.appendChild(qEl);
@@ -1227,4 +1227,3 @@ function switchTab(tabId) {
 // Initialize both batches
 renderBatch("honors");
 renderBatch("courage");
-
