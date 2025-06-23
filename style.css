@@ -293,10 +293,9 @@ footer {
   align-items: center;
   gap: 6px;
   text-decoration: none;
-  color: var(--danger); /* Use theme red */
   font-weight: 600;
   font-size: 0.85em;
-  transition: color 0.2s ease, transform 0.2s ease;
+  transition: white 0.2s ease, transform 0.2s ease;
 }
 
 .yt-link:hover {
