@@ -1206,9 +1206,13 @@ function renderBatch(batchName) {
         <h4>Question ${i + 1}: ${q.title}</h4>
         <div class="links">
           <a href="${q.link}" target="_blank">View →</a>
-          ${q.video ? `<a href="${q.video}" target="_blank" class="yt-link"><img src="https://img.icons8.com/ios-filled/20/fa314a/youtube-play.png" alt="YT" class="yt-icon" /></a>` : ""}
-        </div>
-      `;
+          ${q.video ? `<a href="${q.video}" target="_blank" class="yt-link">
+  <svg xmlns="http://www.w3.org/2000/svg" class="yt-icon" viewBox="0 0 24 24" width="20" height="20" fill="#ffffff">
+    <path d="M10 15l5.19-3L10 9z"/>
+    <path d="M21.8 8s-.2-1.4-.8-2c-.8-.8-1.7-.8-2.1-.9C16.6 5 12 5 12 5s-4.6 0-6.9.1c-.4.1-1.3.1-2.1.9-.6.6-.8 2-.8 2S2 9.6 2 11.2v1.6C2 14.4 2.2 16 2.2 16s.2 1.4.8 2c.8.8 1.9.8 2.4.9 1.8.2 7.6.2 7.6.2s4.6 0 6.9-.1c.4-.1 1.3-.1 2.1-.9.6-.6.8-2 .8-2s.2-1.6.2-3.2v-1.6C22 9.6 21.8 8 21.8 8z"/>
+  </svg>
+  <span>Watch</span>
+</a>` : ""}
       questionsWrapper.appendChild(qEl);
     });
 
