@@ -1228,4 +1228,4 @@ function switchTab(tabId) {
 // Initialize both batches
 renderBatch("honors");
 renderBatch("courage");
-renderBatch("courage");
+
