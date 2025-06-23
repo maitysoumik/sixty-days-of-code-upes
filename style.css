@@ -280,29 +280,39 @@ footer {
   flex-wrap: wrap;
 }
 
+.links {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+
 .yt-link {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  background-color: #ff0000;
-  padding: 6px 12px;
-  border-radius: 999px;
+  gap: 6px;
   text-decoration: none;
-  color: white;
+  color: var(--danger); /* Use theme red */
   font-weight: 600;
   font-size: 0.85em;
-  transition: transform 0.2s ease, background-color 0.2s ease;
+  transition: color 0.2s ease, transform 0.2s ease;
 }
 
 .yt-link:hover {
-  background-color: #cc0000;
-  transform: scale(1.05);
+  color: #c0392b; /* darker red on hover */
+  transform: translateY(-1px);
 }
 
 .yt-icon {
-  width: 20px;
-  height: 20px;
-  fill: white;
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  .yt-link {
+  opacity: 0.85;
+}
+.yt-link:hover {
+  opacity: 1;
 }
 
 /* Responsive */
