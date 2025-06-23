@@ -217,3 +217,21 @@ footer {
     font-size: 1.5em;
   }
 }
+.links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.yt-icon {
+  width: 20px;
+  height: 20px;
+  opacity: 0.8;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.yt-link:hover .yt-icon {
+  transform: scale(1.2);
+  opacity: 1;
+}
