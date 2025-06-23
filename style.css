@@ -246,11 +246,11 @@ footer {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  background-color: #ff0000;
+  background-color: white;
   padding: 6px 12px;
   border-radius: 999px;
   text-decoration: none;
-  color: white;
+  color: #ff0000;
   font-weight: 600;
   font-size: 0.85em;
   transition: transform 0.2s ease, background-color 0.2s ease;
