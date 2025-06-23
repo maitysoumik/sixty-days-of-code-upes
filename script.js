@@ -11,6 +11,7 @@ const data = {
         {
           title: "Rotate Array",
           link: "https://leetcode.com/problems/rotate-array/",
+          "video": "https://youtu.be/4wSbko3fkPI?si=RpMAQjItojgQQzH_"
         },
         {
           title: "Squares of a Sorted Array",
@@ -1138,15 +1139,10 @@ function renderBatch(batchName) {
   const past = questions.filter((q) => q.day < dayDiff);
 
   // Set day count
-  document.getElementById(`day-count-${batchName}`).textContent = Math.min(
-    dayDiff,
-    60
-  );
+  document.getElementById(`day-count-${batchName}`).textContent = Math.min(dayDiff, 60);
 
   // Populate today's questions
-  const todayContainer = document.getElementById(
-    `today-container-${batchName}`
-  );
+  const todayContainer = document.getElementById(`today-container-${batchName}`);
   todayContainer.innerHTML = "";
   if (todaySet) {
     todaySet.questions.forEach((q, i) => {
@@ -1179,7 +1175,10 @@ function renderBatch(batchName) {
       qEl.className = "question-card";
       qEl.innerHTML = `
         <h4>Question ${i + 1}: ${q.title}</h4>
-        <a href="${q.link}" target="_blank">View →</a>
+        <div class="links">
+          <a href="${q.link}" target="_blank">View →</a>
+          ${q.video ? `<a href="${q.video}" target="_blank" class="yt-link"><img src="https://img.icons8.com/ios-filled/20/fa314a/youtube-play.png" alt="YT" class="yt-icon" /></a>` : ""}
+        </div>
       `;
       questionsWrapper.appendChild(qEl);
     });
@@ -1191,17 +1190,12 @@ function renderBatch(batchName) {
 
 // Tab switch logic
 function switchTab(tabId) {
-  document
-    .querySelectorAll(".tab-button")
-    .forEach((btn) => btn.classList.remove("active"));
-  document
-    .querySelectorAll(".tab-content")
-    .forEach((tab) => tab.classList.add("hidden"));
-
+  document.querySelectorAll(".tab-button").forEach((btn) => btn.classList.remove("active"));
+  document.querySelectorAll(".tab-content").forEach((tab) => tab.classList.add("hidden"));
   document.getElementById(tabId).classList.remove("hidden");
   event.target.classList.add("active");
 }
 
-// Initialize both batches on load
+// Initialize both batches
 renderBatch("honors");
 renderBatch("courage");
