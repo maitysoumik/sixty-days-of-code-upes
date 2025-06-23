@@ -16,6 +16,7 @@ const data = {
         {
           title: "Squares of a Sorted Array",
           link: "https://leetcode.com/problems/squares-of-a-sorted-array/",
+          "video" : "https://youtu.be/Rnzy_SHpHgs?si=zL7A0eh3L2YrDkJo"
         },
       ],
     },
@@ -25,10 +26,12 @@ const data = {
         {
           title: "Maximum Subarray (Kadane's Algorithm)",
           link: "https://leetcode.com/problems/maximum-subarray/",
+          "video" : "https://youtu.be/cSYu78GWou0?si=gVNi-F5P7X0mmN3w"
         },
         {
           title: "Product of array except self",
           link: "https://leetcode.com/problems/product-of-array-except-self/",
+          "video" : "https://youtu.be/CkpC_jIovzA?si=7IJKsXemLLmC1EEs"
         },
       ],
     },
@@ -38,10 +41,12 @@ const data = {
         {
           title: "Majority Element",
           link: "https://leetcode.com/problems/majority-element/",
+          "video" : "https://youtu.be/2gLHhWewoNU?si=yB-y2hAjxkSyhwOg"
         },
         {
           title: "Majority Element II",
           link: "https://leetcode.com/problems/majority-element-ii/",
+          "video" : "https://youtu.be/3xgJJFlD6H0?si=fsodPwxlbHX45-BT"
         },
       ],
     },
@@ -51,10 +56,12 @@ const data = {
         {
           title: "Next Greater Element III",
           link: "https://leetcode.com/problems/next-greater-element-iii/",
+          "video" : "https://youtu.be/hC4n4w7zqfk?si=yBp4oObI9bYNfPqR"
         },
         {
           title: "Max Chunks To Make Sorted",
           link: "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+          "video" : "https://youtu.be/uL8tiyZIDlE?si=8Ne4nrQE2tfyo1O_"
         },
       ],
     },
@@ -64,10 +71,12 @@ const data = {
         {
           title: "Max Chunks To Make Sorted II",
           link: "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/",
+          "video" : "https://youtu.be/PFSZAoDGqLQ?si=oPxF0ej-frENwKRn"
         },
         {
           title: "Number of Subarrays with Bounded Maximum",
           link: "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/",
+          "video" : "https://youtu.be/25GVXkqnRMo?si=nmp3TFssSRJefDY0"
         },
       ],
     },
@@ -77,10 +86,12 @@ const data = {
         {
           title: "First Missing Positive",
           link: "https://leetcode.com/problems/first-missing-positive/",
+          "video" : "https://youtu.be/11Tzat-f2-g?si=lUHqi6c9_4vZXCK6"
         },
         {
           title: "Range Addition",
           link: "https://www.lintcode.com/problem/range-addition/description",
+          "video" : "https://youtu.be/odHiEFXCgww?si=Ione7rfV_QY2y_70" 
         },
       ],
     },
@@ -90,10 +101,12 @@ const data = {
         {
           title: "Minimum Number of Platforms",
           link: "https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/",
+          "video" : "https://youtu.be/BYeNvDDhw5k?si=1QW8QmVVvkB9HMyj"
         },
         {
           title: "Trapping Rain Water",
           link: "https://leetcode.com/problems/trapping-rain-water/",
+          "video" : "https://youtu.be/kcn1dR4K3-w?si=OncZr33tzap9Kfsk"
         },
       ],
     },
@@ -103,10 +116,12 @@ const data = {
         {
           title: "Container With Most Water",
           link: "https://leetcode.com/problems/container-with-most-water/",
+          "video" : "https://youtu.be/G82ye6pzmS4?si=Zt7dyQpnsJrjEd_o"
         },
         {
           title: "Two Sum",
           link: "https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/",
+          "video" : "https://youtu.be/86zKKSTA_5s?si=gHR5dGBoiviWClQ9"
         },
       ],
     },
@@ -116,6 +131,7 @@ const data = {
         {
           title: "Find a Pair with the Given Difference",
           link: "https://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/",
+          "video" : "https://youtu.be/l6WzFPM2Ui0?si=EpHA8ZEnG5xpXQQ_"
         },
         {
           title: "Permutations",
@@ -165,10 +181,12 @@ const data = {
         {
           title: "Capacity To Ship Packages Within D Days",
           link: "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+          "video" : "https://youtu.be/hy9dxQKFuLY?si=bENWKibOVj3vMLI5"
         },
         {
           title: "Painter's Partition Problem II",
           link: "https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1",
+          "video" : "https://youtu.be/QeEMVSMzIbA?si=KcuIEGFTxUEHZvMz"
         },
       ],
     },
@@ -178,10 +196,12 @@ const data = {
         {
           title: "Search in Rotated Sorted Array",
           link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+          "video" : "https://youtu.be/46KFbU1FbzE?si=7vsYGCcSgVA6upOD"
         },
         {
           title: "Search in Rotated Sorted Array II",
           link: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+          "video" : "https://youtu.be/aKUq-FRaYEc?si=QgI8qFzstVtszjxV"
         },
       ],
     },
@@ -191,10 +211,12 @@ const data = {
         {
           title: "Allocate Books",
           link: "https://www.interviewbit.com/problems/allocate-books/",
+          "video" : "https://youtu.be/N7N5lIl6p8U?si=zpAMT8IrH6Np-vvP"
         },
         {
           title: "Median of Two Sorted Arrays",
           link: "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+          "video" :
         },
       ],
     },
@@ -204,10 +226,12 @@ const data = {
         {
           title: "Reverse Linked List",
           link: "https://leetcode.com/problems/reverse-linked-list/",
+          "video" : "https://youtu.be/iTMk53WzSbI?si=1xUxIZXeUyaksYqx"
         },
         {
           title: "Find the Middle of the Linked List",
           link: "https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/",
+          "video" : "https://youtu.be/I4E6RTIEtGY?si=I1Mv_U4Mz8acnpLj"
         },
       ],
     },
@@ -217,10 +241,12 @@ const data = {
         {
           title: "Detect Loop in a Linked List",
           link: "https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/",
+          "video" : "https://youtu.be/yVteumdf4YI?si=H_7YezXXexAo04pz"
         },
         {
           title: "Clone a Linked List with Next and Random Pointer",
           link: "https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/",
+          "video" : "https://youtu.be/A0mqB_Y7Wpw?si=xulsyVAKG4c6p1pZ"
         },
       ],
     },
@@ -230,6 +256,7 @@ const data = {
         {
           title: "Linked List Cycle II",
           link: "https://leetcode.com/problems/linked-list-cycle-ii/description/",
+          "video" : "https://youtu.be/DLef_UXAM1M?si=uAVwRLCe6YlR1OQz"
         },
         {
           title: "LRU Cache",
@@ -243,10 +270,12 @@ const data = {
         {
           title: "Next Greater Element",
           link: "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
+          "video" : "https://youtu.be/kD7WqxgozLc?si=EWGCIKNEjCfqNju7"
         },
         {
           title: "Largest Rectangular Area Histogram",
           link: "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+          "video" : "https://youtu.be/Kqeqfd3f5zA?si=xiZBsmvH7ZR64Cqo"
         },
       ],
     },
