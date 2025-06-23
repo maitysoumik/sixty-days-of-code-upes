@@ -216,7 +216,6 @@ const data = {
         {
           title: "Median of Two Sorted Arrays",
           link: "https://leetcode.com/problems/median-of-two-sorted-arrays/",
-          "video" :
         },
       ],
     },
