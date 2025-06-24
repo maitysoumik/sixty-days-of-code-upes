@@ -284,10 +284,12 @@ const data = {
         {
           title: "Max Rectangle",
           link: "https://www.geeksforgeeks.org/problems/max-rectangle/1",
+          "video": "https://youtu.be/JmLweCucq-Y?si=5CJbfwp1RyFPx0Fy"
         },
         {
           title: "Valid Parentheses",
           link: "https://leetcode.com/problems/valid-parentheses/",
+          "video": "https://youtu.be/M48LL7NN2d4?si=HiJSNx0YRoEYjMVq"
         },
       ],
     },
@@ -297,6 +299,7 @@ const data = {
         {
           title: "Min Stack",
           link: "https://leetcode.com/problems/min-stack/",
+          "video": "https://youtu.be/_TYMQ3PYzwg?si=GxnDv4R4zAxnWTTJ"
         },
         {
           title: "K Stacks in a Single Array",
@@ -314,6 +317,7 @@ const data = {
         {
           title: "K Reverse in a Queue",
           link: "https://www.geeksforgeeks.org/reversing-first-k-elements-queue/",
+          "video": "https://youtu.be/kg-y6GxFuXE?si=JbSyhTGdZiXPI5hU"
         },
       ],
     },
