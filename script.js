@@ -1159,8 +1159,137 @@ const data = {
         "link": "https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
       }
     ]
-  }
-
+  },
+     {
+    "day": 31,
+    "questions": [
+      {
+        "title": "Best time to buy and sell stock",
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/"
+      },
+      {
+        "title": "Two sum pair with zero sum",
+        "link": "https://www.geeksforgeeks.org/problems/two-sum-1587115620/1"
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "questions": [
+      {
+        "title": "Move all negative number to one side",
+        "link": "https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end/1"
+      },
+      {
+        "title": "Reverse string",
+        "link": "https://leetcode.com/problems/reverse-string/"
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "questions": [
+      {
+        "title": "Binary search",
+        "link": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1"
+      },
+      {
+        "title": "Find first and last position of element",
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/"
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "questions": [
+      {
+        "title": "Search in 2D matrix",
+        "link": "https://leetcode.com/problems/search-a-2d-matrix/description/"
+      },
+      {
+        "title": "Defuse the bomb",
+        "link": "https://leetcode.com/problems/defuse-the-bomb/description/"
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "questions": [
+      {
+        "title": "Apply operations to array",
+        "link": "https://leetcode.com/problems/apply-operations-to-an-array/description/"
+      },
+      {
+        "title": "Reverse word in string",
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii/description/"
+      }
+    ]
+  },
+  {
+    "day": 36,
+    "questions": [
+      {
+        "title": "Backspace string compare",
+        "link": "https://leetcode.com/problems/backspace-string-compare/description/"
+      },
+      {
+        "title": "Distribute candies",
+        "link": "https://leetcode.com/problems/distribute-candies/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "questions": [
+      {
+        "title": "Can place flower",
+        "link": "https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        "title": "Intersection of two arrays",
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "questions": [
+      {
+        "title": "Third maximum number",
+        "link": "https://leetcode.com/problems/third-maximum-number/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        "title": "Pascal triangle",
+        "link": "https://leetcode.com/problems/pascals-triangle/description/?envType=problem-list-v2&envId=array"
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "questions": [
+      {
+        "title": "Plus one",
+        "link": "https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=array"
+      },
+      {
+        "title": "Maximum Subarray",
+        "link": "https://leetcode.com/problems/maximum-subarray/"
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "questions": [
+      {
+        "title": "Climbing Stairs",
+        "link": "https://leetcode.com/problems/climbing-stairs/"
+      },
+      {
+        "title": "Divisor Game",
+        "link": "https://leetcode.com/problems/divisor-game/"
+      }
+         ]
+  }
 ]
 };
 
