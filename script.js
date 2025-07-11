@@ -1289,7 +1289,137 @@ const data = {
         "link": "https://leetcode.com/problems/divisor-game/"
       }
          ]
-  }
+  },
+    {
+    "day": 41,
+    "questions": [
+      {
+        "title": "Divisor Game",
+        "link": "https://leetcode.com/problems/divisor-game/"
+      },
+      {
+        "title": "Counting Bits",
+        "link": "https://leetcode.com/problems/counting-bits/"
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "questions": [
+      {
+        "title": "Decode Ways",
+        "link": "https://leetcode.com/problems/decode-ways/"
+      },
+      {
+        "title": "Word Break",
+        "link": "https://leetcode.com/problems/word-break/"
+      }
+    ]
+  },
+  {
+    "day": 43,
+    "questions": [
+      {
+        "title": "Delete and Earn",
+        "link": "https://leetcode.com/problems/delete-and-earn/"
+      },
+      {
+        "title": "Maximal Square",
+        "link": "https://leetcode.com/problems/maximal-square/"
+      }
+    ]
+  },
+  {
+    "day": 44,
+    "questions": [
+      {
+        "title": "Coin Change",
+        "link": "https://leetcode.com/problems/coin-change/"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "link": "https://leetcode.com/problems/maximum-product-subarray/"
+      }
+    ]
+  },
+  {
+    "day": 45,
+    "questions": [
+      {
+        "title": "Maximum Length of Repeated Subarray",
+        "link": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/"
+      },
+      {
+        "title": "Palindromic Substrings",
+        "link": "https://leetcode.com/problems/palindromic-substrings/"
+      }
+    ]
+  },
+  {
+    "day": 46,
+    "questions": [
+      {
+        "title": "House Robber",
+        "link": "https://leetcode.com/problems/house-robber/"
+      },
+      {
+        "title": "Continuous Subarray Sum",
+        "link": "https://leetcode.com/problems/continuous-subarray-sum/"
+      }
+    ]
+  },
+  {
+    "day": 47,
+    "questions": [
+      {
+        "title": "Knight Dialer",
+        "link": "https://leetcode.com/problems/knight-dialer/"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+      }
+    ]
+  },
+  {
+    "day": 48,
+    "questions": [
+      {
+        "title": "Unique Paths",
+        "link": "https://leetcode.com/problems/unique-paths/"
+      },
+      {
+        "title": "Count Square Submatrices with All Ones",
+        "link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/"
+      }
+    ]
+  },
+  {
+    "day": 49,
+    "questions": [
+      {
+        "title": "Range Sum Query 2D - Immutable",
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable/"
+      },
+      {
+        "title": "Longest Arithmetic Subsequence",
+        "link": "https://leetcode.com/problems/longest-arithmetic-subsequence/"
+      }
+    ]
+  },
+  {
+    "day": 50,
+    "questions": [
+      {
+        "title": "Trapping Rain Water",
+        "link": "https://leetcode.com/problems/trapping-rain-water/"
+      },
+      {
+        "title": "Word Break II",
+        "link": "https://leetcode.com/problems/word-break-ii/"
+      }
+    ]
+  } 
 ]
 };
 
